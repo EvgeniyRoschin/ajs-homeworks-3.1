@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import characterStatus from '../app';
 
 test('healthy', () => {
